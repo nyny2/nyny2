@@ -1,7 +1,7 @@
 # Hi, I'm Nehir 👋
-🎓 Computer Science student @ Sorbonne University (Paris)
-🌍 Based in Paris, France | Originally from Istanbul, Türkiye
-💡 Passionate about software development, data science & problem solving
+- 🎓 Computer Science student @ Sorbonne University (Paris)
+- 🌍 Based in Paris, France | Originally from Istanbul, Türkiye
+- 💡 Passionate about software development, data science & problem solving
 
 ## 🔭 What I'm up to
 - 🏫 Student in Intensive CS track
