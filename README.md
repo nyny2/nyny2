@@ -13,13 +13,10 @@
 **Data:** NumPy · Pandas · Matplotlib · SQLite3  
 **Tools:** Git · Jira · Linux · Jupyter Notebook
 
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nyny2&layout=compact&langs_count=8&count_private=true&theme=radical"/>
+
 ## ⚡ Fun facts
 - 🌐 Fluent in Turkish, English & French
 - ✈️ Visited 13 countries across 2 continents
 - 🎹 Play piano & guitar
 - 🧩 Big fan of puzzles, mystery films & anime
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nyny2&show_icons=true&include_all_commits=true&count_private=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nyny2&layout=compact&langs_count=8&count_private=true&theme=radical"/>
-</div>
