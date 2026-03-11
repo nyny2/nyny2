@@ -15,5 +15,5 @@
 
 
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&count_private=true&theme=radical"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&count_private=true&theme=radical"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nyny2&show_icons=true&include_all_commits=true&count_private=true&theme=radical"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nyny2&layout=compact&langs_count=8&count_private=true&theme=radical"/>
