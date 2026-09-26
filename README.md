@@ -9,7 +9,7 @@
 ## 🛠️ Tech Stack
 **Languages:** Python · C · Java · Swift · OCaml · Bash  
 **Web:** HTML · CSS · Flask  
-**Data:** NumPy · Pandas · Matplotlib · SQLite3 · PostgreSQL
+**Data:** NumPy · Pandas · Matplotlib · SQLite3 · PostgreSQL  
 **Tools:** Git · Jira · Linux · Jupyter Notebook
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nyny2&layout=compact&langs_count=8&count_private=true&theme=radical"/>
